@@ -13,3 +13,6 @@ conda create -n GWC python=3.7
 conda activate GWC
 pip install --e .
 ```
+
+## Step 4: 
+You can get one test data from [here](https://drive.google.com/file/d/1V5k1wamDO7UmcMn-LIa3HEhf_iDz_EfP/view?usp=drive_link)
