@@ -1,6 +1,6 @@
 # Updated code for GWC YOLOv5
 ## Step 0: 
-Open your Anaconda Prompt/Powershell/Linux Terminal and put your hands on keyboard
+Open your Anaconda Prompt/Powershell/Linux Terminal and put your hands on keyboard. If you still don't have it installed on your PC, click [here](https://www.anaconda.com/download)
 
 ## Step 1: 
 ```shell
