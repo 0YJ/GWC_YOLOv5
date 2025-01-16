@@ -12,8 +12,14 @@ Keep in project folder and do:
 ```
 conda create -n GWC python=3.7
 conda activate GWC
+pip install ensemble_boxes
 pip install --e .
 ```
 
 ## Step 4: 
 You can get one test data from [here](https://drive.google.com/file/d/1V5k1wamDO7UmcMn-LIa3HEhf_iDz_EfP/view?usp=drive_link)
+
+## Step 5: 
+```
+python detect.py --img-size 8000 --name best --weights weights/wheatHead.pt --source /where-you-save-the-test-data --nosave  --max-det 10000 --conf-thres 0.5
+```
