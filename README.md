@@ -14,7 +14,7 @@ Download weight from [link](https://drive.google.com/file/d/1msfpBFOTe_g0Jp3c-DI
 ## Step 3: 
 Keep in project folder and do: 
 ```
-conda create -n GWC python=3.7
+conda create -n GWC python=3.8
 conda activate GWC
 pip install -r requirements.txt
 pip install ensemble_boxes
