@@ -3,7 +3,7 @@
 ```bash
 git clone https://github.com/0YJ/GWC_YOLOv5.git
 ```
-```bash
+```shell
 cd GWC_YOLOv5
 mkdir weights
 ```
