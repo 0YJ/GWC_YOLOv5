@@ -11,5 +11,5 @@ Download weight from [link](https://drive.google.com/file/d/1msfpBFOTe_g0Jp3c-DI
 ```
 conda create -n GWC python=3.7
 conda activate GWC
-pip install -r requirement.txt
+pip install --e .
 ```
