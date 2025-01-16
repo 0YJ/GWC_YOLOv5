@@ -2,6 +2,8 @@
 ## Step 1: 
 ```bash
 git clone https://github.com/0YJ/GWC_YOLOv5.git
+```
+```bash
 cd GWC_YOLOv5 && mkdir weights
 ```
 ## Step 2: 
