@@ -1,4 +1,7 @@
 # Updated code for GWC YOLOv5
+## Step 0: 
+Open your Anaconda Prompt/Powershell/Linux Terminal and put your hands on keyboard
+
 ## Step 1: 
 ```shell
 git clone https://github.com/0YJ/GWC_YOLOv5.git
