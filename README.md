@@ -14,7 +14,7 @@ Keep in project folder and do:
 conda create -n GWC python=3.7
 conda activate GWC
 pip install ensemble_boxes
-pip install --e .
+pip install -e .
 ```
 
 ## Step 4: 
